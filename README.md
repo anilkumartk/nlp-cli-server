@@ -20,7 +20,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Shaik-Mohammed-Amaan/nlp-cli-server.git
+   git clone https://github.com/anilkumartk/nlp-cli-server.git
    cd nlp-cli-server
    ```
 
@@ -68,7 +68,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 For any questions or suggestions, feel free to reach out:
 
-- **Author**: Shaik Mohammed Amaan
-- **Email**: [smdamaan7890@gmail.com]
-- **GitHub**: [Shaik-Mohammed-Amaan](https://github.com/Shaik-Mohammed-Amaan)
+- **Author**: Anil Kumar
+- **Email**: [anilkumartk2004@gmail.com]
+- **GitHub**: [Anil Kumar](https://github.com/anilkumartk)
 
